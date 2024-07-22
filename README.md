@@ -1,16 +1,38 @@
-## Hi there 👋
+## Oi  Eu sou o Nicolas Simões  👋
 
-<!--
-**NicolasSimoes/NicolasSimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nicolas Simoes - Especialização em Análise e Ciência de Dados
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Sou Nicolas Simoes, um profissional da área de Ciência da Computação com um foco crescente em Análise de Dados e Ciência de Dados. Com uma sólida formação em tecnologia e um interesse profundo em extrair insights significativos a partir de dados, estou comprometido em aprofundar meu conhecimento e habilidades nesta área fascinante.
+
+## Objetivos
+
+Meu objetivo principal é me especializar em Análise e Ciência de Dados, desenvolvendo habilidades avançadas em:
+
+- **Análise Estatística**: Aplicação de métodos estatísticos para interpretar e analisar grandes conjuntos de dados.
+- **Machine Learning**: Construção e treinamento de modelos preditivos e de classificação para gerar insights e previsões.
+- **Visualização de Dados**: Criação de representações visuais impactantes para comunicar descobertas e resultados de maneira clara e eficaz.
+- **Big Data**: Gerenciamento e processamento de grandes volumes de dados utilizando ferramentas e plataformas modernas.
+
+## Ferramentas e Tecnologias
+
+Atualmente, estou trabalhando com uma variedade de ferramentas e tecnologias, incluindo:
+
+- **MySQL**: Gerenciamento e manipulação de bancos de dados relacionais.
+- **Azure Studio**: Desenvolvimento e análise de dados em ambientes de nuvem.
+- **Python**: Programação para análise de dados, automação e desenvolvimento de modelos de machine learning.
+- **Excel**: Análise e visualização de dados em planilhas, criação de dashboards e relatórios.
+- **Power BI**: Desenvolvimento de dashboards interativos e relatórios para visualização e análise de dados.
+
+
+
+## Contato
+
+Se você estiver interessado em discutir mais sobre Análise de Dados, Ciência de Dados ou qualquer outro tópico relacionado, sinta-se à vontade para entrar em contato!
+
+- **LinkedIn**:(www.linkedin.com/in/nicolas-simões-031501221)
+- **Email**:(nicolasslsantos@gmail.com)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasSimoes&show_icons=true&theme=dark)
