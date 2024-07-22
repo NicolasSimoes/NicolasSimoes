@@ -1,7 +1,7 @@
 ## Oi  Eu sou o Nicolas Simões  👋
 ## Sobre Mim
 
-Olá! Sou Nicolas Simoes, um profissional da área de Ciência da Computação com um foco crescente em Análise de Dados e Ciência de Dados. Possuo um interesse profundo em extrair insights significativos a partir de dados, estou comprometido em aprofundar meu conhecimento e habilidades nesta área fascinante.
+Olá! Sou Nicolas Simões, um profissional da área de Ciência da Computação com um foco crescente em Análise de Dados e Ciência de Dados. Possuo um interesse profundo em extrair insights significativos a partir de dados, estou comprometido em aprofundar meu conhecimento e habilidades nesta área fascinante.
 
 ## Objetivos
 
