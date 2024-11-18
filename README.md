@@ -16,7 +16,7 @@ Meu objetivo principal é me especializar em Análise e Ciência de Dados, desen
 
 Atualmente, estou trabalhando com uma variedade de ferramentas e tecnologias, incluindo:
 
-- **MySQL**: Gerenciamento e manipulação de bancos de dados relacionais.
+- **MySQL,SQL SERVER**: Gerenciamento e manipulação de bancos de dados relacionais.
 - **Azure Studio**: Desenvolvimento e análise de dados em ambientes de nuvem.
 - **Python**: Programação para análise de dados, automação e desenvolvimento de modelos de machine learning.
 - **Excel**: Análise e visualização de dados em planilhas, criação de dashboards e relatórios.
