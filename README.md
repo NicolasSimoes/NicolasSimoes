@@ -30,6 +30,7 @@ Se você estiver interessado em discutir mais sobre Análise de Dados, Ciência 
 
 - **LinkedIn**:(www.linkedin.com/in/nicolas-simões-031501221)
 - **Email**:(nicolasslsantos@gmail.com)
+- - **Portifolio BI**:(https://sites.google.com/view/portifolionicolassimoes/in%C3%ADcio)
 <table>
   <tr>
     <td>
